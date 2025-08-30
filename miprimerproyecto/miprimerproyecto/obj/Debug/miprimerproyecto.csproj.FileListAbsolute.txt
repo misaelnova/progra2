@@ -8,3 +8,4 @@ C:\Users\diego\OneDrive\Escritorio\progra2\miprimerproyecto\miprimerproyecto\obj
 C:\Users\diego\OneDrive\Escritorio\progra2\miprimerproyecto\miprimerproyecto\obj\Debug\miprimerproyecto.csproj.CoreCompileInputs.cache
 C:\Users\diego\OneDrive\Escritorio\progra2\miprimerproyecto\miprimerproyecto\obj\Debug\miprimerproyecto.exe
 C:\Users\diego\OneDrive\Escritorio\progra2\miprimerproyecto\miprimerproyecto\obj\Debug\miprimerproyecto.pdb
+C:\Users\diego\OneDrive\Escritorio\progra2\miprimerproyecto\miprimerproyecto\obj\Debug\miprimerproyecto.exe.config
