@@ -28,71 +28,21 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.lblNombre = new System.Windows.Forms.Label();
-            this.lblSaludo = new System.Windows.Forms.Label();
-            this.btnSaludar = new System.Windows.Forms.Button();
-            this.txtNombre = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
-            // 
-            // lblNombre
-            // 
-            this.lblNombre.AutoSize = true;
-            this.lblNombre.Location = new System.Drawing.Point(83, 54);
-            this.lblNombre.Name = "lblNombre";
-            this.lblNombre.Size = new System.Drawing.Size(53, 16);
-            this.lblNombre.TabIndex = 0;
-            this.lblNombre.Text = "nombre";
-            this.lblNombre.Click += new System.EventHandler(this.label1_Click);
-            // 
-            // lblSaludo
-            // 
-            this.lblSaludo.AutoSize = true;
-            this.lblSaludo.Location = new System.Drawing.Point(63, 340);
-            this.lblSaludo.Name = "lblSaludo";
-            this.lblSaludo.Size = new System.Drawing.Size(33, 16);
-            this.lblSaludo.TabIndex = 1;
-            this.lblSaludo.Text = "hola";
-            // 
-            // btnSaludar
-            // 
-            this.btnSaludar.Location = new System.Drawing.Point(197, 123);
-            this.btnSaludar.Name = "btnSaludar";
-            this.btnSaludar.Size = new System.Drawing.Size(128, 66);
-            this.btnSaludar.TabIndex = 2;
-            this.btnSaludar.Text = "SALUDAR";
-            this.btnSaludar.UseVisualStyleBackColor = true;
-            this.btnSaludar.Click += new System.EventHandler(this.btnSaludar_Click);
-            // 
-            // txtNombre
-            // 
-            this.txtNombre.Location = new System.Drawing.Point(142, 51);
-            this.txtNombre.Name = "txtNombre";
-            this.txtNombre.Size = new System.Drawing.Size(256, 22);
-            this.txtNombre.TabIndex = 3;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.txtNombre);
-            this.Controls.Add(this.btnSaludar);
-            this.Controls.Add(this.lblSaludo);
-            this.Controls.Add(this.lblNombre);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "ADMINISTRACION DE ALUMNOS";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Label lblNombre;
-        private System.Windows.Forms.Label lblSaludo;
-        private System.Windows.Forms.Button btnSaludar;
-        private System.Windows.Forms.TextBox txtNombre;
     }
 }
 
